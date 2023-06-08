@@ -2,6 +2,11 @@
 
 # Per te shoqeruar databazen eshte krijuar metoda e authentication/login/signup me jwt auth tokens dhe eshte krijuar nje REST API qe kap te gjitha tabelat dhe marredheniet midis tyre!
 
+# Modeli i databases
+
+![model](https://github.com/reiikonomi/detyra-kursi/assets/94234882/8aa300b1-c871-4a57-9715-bc466e66e12d)
+
+
 ### Entitetet qe definojne tabelat fizike ndodhen ne folderin packages/models/src/lib/entities
 
 ### Eshte ndjekur metoda code first database generation e cila qe nga emri sygjeron menyren e krijimit te databases; Nepermjet klasave te cilat jane "annotated" me vleren Entity, nje shembull i vogel:
